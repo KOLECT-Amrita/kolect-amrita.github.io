@@ -6,17 +6,14 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "Startups & Initiatives"
-    url: /startups/
-    
   - title: "Projects"
     url: /projects/
     
   - title: "Organised"
     url: /organiser/
     
-  - title: "Awards & Certifications"
-    url: /certifications/  
+  #- title: "Awards & Certifications"
+  #  url: /certifications/  
     
   - title: "Contact Me"
     url: /contact/
