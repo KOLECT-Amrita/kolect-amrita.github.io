@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kolect"
+title                    : "KOLECT"
 title_separator          : "-"
-name                     : &name "Kolect"
+name                     : &name "KOLECT"
 description              : &description "Amrita Vishwa Vidyapeetham"
 url                      : https://kolect-amrita.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kolect"
+  name             : "KOLECT"
   avatar           : "KOLECT.png"
   bio              : "Amrita Vishwa Vidyapeetham"
   location         : "Coimbatore, India"
