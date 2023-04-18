@@ -223,6 +223,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _divisions
+  - scope:
+      path: ""
+      types: divisions
+     values:
+      layout: divisions
+      author_profile: true
+      share: true
   # _certifications
   - scope:
       path: ""
