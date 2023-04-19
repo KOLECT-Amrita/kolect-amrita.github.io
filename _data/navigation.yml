@@ -9,6 +9,9 @@ main:
   - title: "Divisions"
     url: /divisions"
     
+  - title: "fieldvisit"
+    url: /fieldvisit/"
+ 
   - title: "Projects"
     url: /projects/
     
